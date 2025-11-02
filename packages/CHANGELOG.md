@@ -1,5 +1,11 @@
 # @moondesignsystem/react
 
+## 2.5.20
+
+### Patch Changes
+
+- feat: add funding to the package
+
 ## 2.5.19
 
 ### Patch Changes
